@@ -1,4 +1,4 @@
-# Javascript-Calendar
+# Javascript Calendar Sample Project
 Basic calendar application using CSS and HTML with minimal jquery.
 
 ## How To Use
