@@ -6,7 +6,7 @@ Basic calendar application using CSS and HTML with minimal jquery.
 Open index.html in the browser. Within the browser console, you can run 
 
 ```
-layoutDay(events);
+layOutDay(events);
 ```
 
 to display your daily schedule. You can define the calendar in your console first using the format
